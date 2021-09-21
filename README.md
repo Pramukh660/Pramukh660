@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👋 Hi, I’m @pramukh660
-👀 I’m interested in ...Python
-🌱 I’m currently learning ...Data Science
-💞️ I’m looking to collaborate on ...Python Projects
-📫 How to reach me ...pramukh660@gmail.com
+👋 Hi, I’m Pramukh.JS
+👀 I’m interested in Python
+🌱 I’m currently learning Data Science and Machine learning
+💞️ I’m looking to collaborate on Python Projects
+📫 How to reach me pramukh660@gmail.com
